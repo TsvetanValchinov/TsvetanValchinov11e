@@ -1,0 +1,9 @@
+D:\School\Software development\ПТ Business,Data Layer and Nunit testing\TsvetanValchinov11e\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+D:\School\Software development\ПТ Business,Data Layer and Nunit testing\TsvetanValchinov11e\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\School\Software development\ПТ Business,Data Layer and Nunit testing\TsvetanValchinov11e\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\School\Software development\ПТ Business,Data Layer and Nunit testing\TsvetanValchinov11e\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+D:\School\Software development\ПТ Business,Data Layer and Nunit testing\TsvetanValchinov11e\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+D:\School\Software development\ПТ Business,Data Layer and Nunit testing\TsvetanValchinov11e\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+D:\School\Software development\ПТ Business,Data Layer and Nunit testing\TsvetanValchinov11e\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\School\Software development\ПТ Business,Data Layer and Nunit testing\TsvetanValchinov11e\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\School\Software development\ПТ Business,Data Layer and Nunit testing\TsvetanValchinov11e\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb

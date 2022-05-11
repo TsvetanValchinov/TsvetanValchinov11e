@@ -1,0 +1,15 @@
+D:\School\Software development\ПТ Business,Data Layer and Nunit testing\TsvetanValchinov11e\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+D:\School\Software development\ПТ Business,Data Layer and Nunit testing\TsvetanValchinov11e\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.json
+D:\School\Software development\ПТ Business,Data Layer and Nunit testing\TsvetanValchinov11e\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.dev.json
+D:\School\Software development\ПТ Business,Data Layer and Nunit testing\TsvetanValchinov11e\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+D:\School\Software development\ПТ Business,Data Layer and Nunit testing\TsvetanValchinov11e\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+D:\School\Software development\ПТ Business,Data Layer and Nunit testing\TsvetanValchinov11e\DataLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\School\Software development\ПТ Business,Data Layer and Nunit testing\TsvetanValchinov11e\DataLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\School\Software development\ПТ Business,Data Layer and Nunit testing\TsvetanValchinov11e\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.AssemblyReference.cache
+D:\School\Software development\ПТ Business,Data Layer and Nunit testing\TsvetanValchinov11e\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+D:\School\Software development\ПТ Business,Data Layer and Nunit testing\TsvetanValchinov11e\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+D:\School\Software development\ПТ Business,Data Layer and Nunit testing\TsvetanValchinov11e\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+D:\School\Software development\ПТ Business,Data Layer and Nunit testing\TsvetanValchinov11e\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CopyComplete
+D:\School\Software development\ПТ Business,Data Layer and Nunit testing\TsvetanValchinov11e\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+D:\School\Software development\ПТ Business,Data Layer and Nunit testing\TsvetanValchinov11e\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
+D:\School\Software development\ПТ Business,Data Layer and Nunit testing\TsvetanValchinov11e\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.genruntimeconfig.cache
